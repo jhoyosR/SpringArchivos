@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <estudiante>
+        <nombre>Juan Pérez</nombre>
+        <edad>22</edad>
+        <curso>Ingeniería de Software</curso>
+    </estudiante>
+    <estudiante>
+        <nombre>María García</nombre>
+        <edad>21</edad>
+        <curso>Arquitectura de Computadores</curso>
+    </estudiante>
+</estudiantes>
